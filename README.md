@@ -6,7 +6,7 @@ which tmux returns
 /usr/local/bin/tmux
 Anything else I should check?
 
-@mcornella emp3r0r
+@mcornella 
 
 export LDFLAGS="-L/opt/openssl/lib"
 export CPPFLAGS="-I/opt/openssl/include"
